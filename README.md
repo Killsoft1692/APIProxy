@@ -14,4 +14,4 @@ This tiny projects shows how to use FastAPI and Celery to resolve remote server'
 
 ### Available actions:
 * Add request params: ```/?key=value&...```
-* Check queues length: ```/queue_length```
+* Check queue's length: ```/queue_length```
